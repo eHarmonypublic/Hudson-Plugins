@@ -1,0 +1,4 @@
+Job Filter Choice Parameter plugin will list dynamically all the jobs that has a Regexp Match ( <a href ="http://download.oracle.com/javase/6/docs/api/java/lang/String.html#matches%28java.lang.String%29" > Java Doc </a>) with the Joblist name . 
+
+Useful if you want to list jobs as a drop-down choice list at runtime .
+
